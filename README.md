@@ -67,6 +67,10 @@ Do not connect buzzers directly to power without a current-limiting resistor if 
 <p> <strong> frequency</strong> Pitch in Hz (e.g., 1000 = 1kHz) <p>
 <p> <strong> duration </strong> 	Time in ms the tone will play <p> </br>
 
+<h3>Additional Picture(s)</h3>
 
+![Final Project](https://github.com/BracleyPremed/Buzzer-/blob/main/SB.png?raw=true)
+
+![Final Project](https://github.com/BracleyPremed/Buzzer-/blob/main/SCB.png?raw=true)
 
 <strong>  Sam Cherilus <strong> 
